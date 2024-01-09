@@ -4,7 +4,7 @@
 requests（用于网络请求）、BeautifulSoup（用于HTML解析）、pandas（用于数据处理和分析）、seaborn（用于创建各种统计图表）、matplotlib（用于绘制二维图形）、xlwt（处理和创建Excel文件）。
 ## 2.运行结果展示
 ### 爬虫运行结果
-![爬虫运行结果](https://github.com/jiiijie/DouBanMovieTop250_shixun/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-04%20185144.png?raw=true)
+![爬虫运行结果](https://github.com/jiiijie/DouBanMovieTop250_shixun/blob/main/%E7%88%AC%E8%99%AB%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png?raw=true)
 ![保存文件预览](https://github.com/jiiijie/DouBanMovieTop250_shixun/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-04%20185155.png?raw=true)
 
 ### 数据可视化展示
