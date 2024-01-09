@@ -1,0 +1,2 @@
+# DouBanMovieTop250_shixun
+2023-2024第一学期python程序设计基础实训。爬取豆瓣电影Top250详细信息并进行数据可视化
