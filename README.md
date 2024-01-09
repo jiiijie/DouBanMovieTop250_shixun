@@ -14,6 +14,6 @@ requests（用于网络请求）、BeautifulSoup（用于HTML解析）、pandas�
 ![豆瓣电影Top250评分箱线图](https://github.com/jiiijie/DouBanMovieTop250_shixun/blob/main/%E7%AE%B1%E7%BA%BF%E5%9B%BE.png?raw=true)
 
 ## 3.参考资料
-[# 『教程』一看就懂！Github基础教程](https://www.bilibili.com/video/BV1hS4y1S7wL)
-[# 教你写README.md——GitHub标记语言教程](https://www.bilibili.com/video/BV1Y5411W7j4)
-[工具](https://stackedit.io/app#)
+1[# 『教程』一看就懂！Github基础教程](https://www.bilibili.com/video/BV1hS4y1S7wL)
+2[# 教你写README.md——GitHub标记语言教程](https://www.bilibili.com/video/BV1Y5411W7j4)
+3[工具](https://stackedit.io/app#)
